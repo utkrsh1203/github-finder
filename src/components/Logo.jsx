@@ -14,7 +14,7 @@ const Logo = () => {
         </a>
       </div>
       <ul className='text-2xl px-4 flex flex-row items-center justify-center'>
-        <a className='px-3' href=''>
+        <a className='px-3' href='https://github.com/utkrsh1203/github-finder'>
           <BsGithub />
         </a>
       </ul>
